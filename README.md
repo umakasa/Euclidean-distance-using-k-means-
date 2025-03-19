@@ -1,1 +1,1 @@
-# Euclidean-distance-using-k-means-
+# Euclidean distance using k-means
